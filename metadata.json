@@ -1,0 +1,6 @@
+{
+  "name": "Srijan: Teacher Educational Design Companion",
+  "description": "A teacher-first AI educational design companion that understands an individual teacher's educational philosophy, classroom context, and learner needs to co-reason, design, and reflect.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
